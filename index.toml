@@ -684,6 +684,11 @@ hash = "723383140ebcc04db20bb47a2d5dc5667894ed4f12605ec63488dba9de608eaf"
 metafile = true
 
 [[files]]
+file = "mods/table-top-craft.pw.toml"
+hash = "d8a0355cf4da9ce96dadbec3fa67a0ffa81132c72c3184f03b6bd30cb2669e08"
+metafile = true
+
+[[files]]
 file = "mods/tameable-beasts.pw.toml"
 hash = "34b4c2dc9e9e038927ec005e596b5d5b980599b55c4a78afa074c3e9c0d2ae20"
 metafile = true
