@@ -1,13 +1,13 @@
-name = "First-person Model (Forge/Fabric)"
-filename = "firstperson-forge-2.4.6-mc1.20.1.jar"
-side = "both"
+name = "First-person Model"
+filename = "firstperson-forge-2.4.7-mc1.20.1.jar"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "db4c2d40a0bf1edb204fb9eb5c9e36ffcac07606"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/Lm4Ju8b7/firstperson-forge-2.4.7-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "0c2119ed2029d5ad5dbab69c650da80335d9dc07daf16ba7deab0620d2d3c44fcb986f8aef1ae6dad466e17ad550c9c07edc651971c82b42d4faafe841c59fff"
 
 [update]
-[update.curseforge]
-file-id = 5906040
-project-id = 333287
+[update.modrinth]
+mod-id = "H5XMjpHi"
+version = "Lm4Ju8b7"

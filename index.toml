@@ -239,8 +239,8 @@ hash = "750841548ae0990fca6a11691760b394623d3316bc1eaad47ad7ee0ec5a906c9"
 metafile = true
 
 [[files]]
-file = "mods/desert-behemoths-sandworms.pw.toml"
-hash = "367452ce229a08a5ca79648802d052ee9bb20db553f2aede561a270176a14d38"
+file = "mods/desert-behemoths-sandworms!.pw.toml"
+hash = "edf9702062fbacae711cab45657be7436641c5215d6024ce8939e4b1f6041504"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f3686eb7e83c6db560d2fec656e6a7a1b1cf93979f94b2410cbb516860ad7f5b"
+hash = "738bca478ab07a0273e2f9ba8ca292dc1381d8e5860f15fbd3d25a7d26a3a949"
 metafile = true
 
 [[files]]
@@ -286,11 +286,6 @@ metafile = true
 [[files]]
 file = "mods/eyes-in-the-dark.pw.toml"
 hash = "7a539b9afe00f006f3e124336b977455bb46f2c8f0627dcb4a8203a6872bf8a2"
-metafile = true
-
-[[files]]
-file = "mods/faded-conquest-ii.pw.toml"
-hash = "979ba74fd43041f568c414af0c3822ee8ba2fd6b4abc986e570e9ca5cde689f5"
 metafile = true
 
 [[files]]
@@ -320,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "fd57e34573251169ed986e882363533cadfaf7f359b0d4c7f6998f2761aaade6"
+hash = "b6c714f1660a28cfbd38db50e98814e0278cac36dfd161b83646a1d6b1f2ccc6"
 metafile = true
 
 [[files]]
@@ -454,11 +449,6 @@ hash = "f1efbbd1f88ee44bc2dc1b032f96ef18f08b0e692f6943ad54f95d60e399586a"
 metafile = true
 
 [[files]]
-file = "mods/messenger-crow.pw.toml"
-hash = "52800e8432615a4e44d50b085f2a224599721cacde5c11c464442288876bea2d"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "38365cfabe4f5af0a270c208ba4de1b332b9e3740251ccae7f33023d9aeaf3db"
 metafile = true
@@ -565,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/protection-pixel.pw.toml"
-hash = "d6a0fb35dcc0bc71e39336d14c82a7846a8760b134748851265ed63f5e4e2637"
+hash = "32c61a09811d052b1edfd0f3203a6668ff00e8a6004b6485053c4ad14e777e88"
 metafile = true
 
 [[files]]
@@ -751,11 +741,6 @@ metafile = true
 [[files]]
 file = "mods/the-sculpture.pw.toml"
 hash = "9b2447c5ac8e651bf671588ce45d953b79c3edd8aa7ac2f92c71e9d7c11df7d8"
-metafile = true
-
-[[files]]
-file = "mods/the-shattered-goddess-mokels-bossfight-saphyra.pw.toml"
-hash = "0848d81132071af3303df847fb13dcbda39cbe95cd9d3fbbfd486f88fcebe4ec"
 metafile = true
 
 [[files]]

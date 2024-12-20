@@ -3,11 +3,11 @@ filename = "protection_pixel-1.1.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "77120846cefe5ca25e1a8b2e227f46e39b6c15b4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/l1FZziEx/versions/8IimY47j/protection_pixel-1.1.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "aca42048700d8885cc7076557fee59f496daa49c367cead4ad2e683d88a683a2851763ab5ac765ef98bfcb264d2901372897dfa935f8fda27aab9d5d04572fec"
 
 [update]
-[update.curseforge]
-file-id = 5998404
-project-id = 1023409
+[update.modrinth]
+mod-id = "l1FZziEx"
+version = "8IimY47j"
