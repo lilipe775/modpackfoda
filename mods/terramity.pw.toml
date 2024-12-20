@@ -1,0 +1,13 @@
+name = "Terramity"
+filename = "terramity-0.9.6.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab3c327f92149b656f97e1ec349c121f0e40743d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5864302
+project-id = 1084134

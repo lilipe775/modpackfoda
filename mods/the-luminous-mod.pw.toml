@@ -1,0 +1,13 @@
+name = "LUMINOUS"
+filename = "Luminous V1.4.82 - Forge 1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f165395cf0519c9c55ecddde943befb67308228"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5988468
+project-id = 909107

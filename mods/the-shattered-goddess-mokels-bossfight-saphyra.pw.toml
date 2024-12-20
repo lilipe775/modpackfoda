@@ -1,0 +1,13 @@
+name = "Mokels The Shattered Goddess"
+filename = "mokels_bossfight_saphyra-2.0.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae4d0561285ff0b59a73c5fee1539e2828f691d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5833660
+project-id = 1005379

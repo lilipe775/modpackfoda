@@ -1,0 +1,13 @@
+name = "Roost 2: Flying Higher"
+filename = "roost2-1.0.0r-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bca837ce6fa39ec4eabaf1215fec164afa3df389"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5902147
+project-id = 1126435

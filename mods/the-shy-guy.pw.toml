@@ -1,0 +1,13 @@
+name = "SCP-096, The Shy Guy"
+filename = "ShyGuy-forge-1.20.1-2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ba57363fef15c5a4b86a173c83c2ebb28b0cbb6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5818146
+project-id = 1000333

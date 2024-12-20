@@ -1,0 +1,13 @@
+name = "SCP-6096, The Blanket Ghost"
+filename = "BlanketGhost-forge-1.20.1-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1fa977aefde36b2bb0db4408142e83a3336e2fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5548374
+project-id = 1014560

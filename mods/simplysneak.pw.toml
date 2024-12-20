@@ -1,0 +1,13 @@
+name = "SimplySneak"
+filename = "simplysneak-0.2.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ad8b8cd91c9ea80058bcfb2499a2c7954f10278"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5428527
+project-id = 972456

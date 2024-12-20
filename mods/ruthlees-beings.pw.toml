@@ -1,0 +1,13 @@
+name = "Ruthless Beings"
+filename = "Ruthless Beings1.1.6.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a67d21e570dd57d876489d6d9001d435d8b756d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5979038
+project-id = 1127235

@@ -1,0 +1,13 @@
+name = "Armageddon"
+filename = "ArmageddonMod for 1.20.1 (v0.1.5).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a3ef8e4702bca7b39a73d50ac7fbab12f0bf0d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5789660
+project-id = 1110642

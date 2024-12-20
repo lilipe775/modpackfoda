@@ -1,0 +1,13 @@
+name = "Name Pain"
+filename = "namepain-1.5.0 forge-1.20.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16a257c1cec72619052c93dd1cd1bcedd052602c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4643254
+project-id = 366263

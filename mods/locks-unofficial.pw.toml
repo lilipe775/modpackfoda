@@ -1,0 +1,13 @@
+name = "Locks-Unofficial"
+filename = "Locks-Unoffical-forge-1.20.1-1.2.3HOTFIX.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2bb9f9bbf710c2abdebdbcdb3788d82d9645b1da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5907395
+project-id = 1128357

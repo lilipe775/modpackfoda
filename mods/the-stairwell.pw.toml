@@ -1,0 +1,13 @@
+name = "SCP-087, The Stairwell"
+filename = "TheStairwell-forge-1.20.1-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32f3433bc9cf2a38224a393c65f2a7a1f51b7f81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5918415
+project-id = 1025461

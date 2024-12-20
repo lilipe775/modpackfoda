@@ -1,0 +1,13 @@
+name = "SCP-3199, Humans Refuted"
+filename = "HumansRefuted-forge-1.20.1-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d8636138f896e6305785bd206cc71c3895947d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5719915
+project-id = 1015928

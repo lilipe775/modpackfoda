@@ -1,0 +1,13 @@
+name = "SCP-280, Eyes in the Dark"
+filename = "EyesInTheDark-forge-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ded2bf4541e122da418bef5f08fe2aaef2182e1d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5699214
+project-id = 1033365

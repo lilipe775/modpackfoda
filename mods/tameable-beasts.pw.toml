@@ -1,0 +1,13 @@
+name = "Tameable Beasts"
+filename = "tameablebeasts-6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a6d4fe9678140d48219c2dc4fd9bc00e6c7bf7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5917513
+project-id = 646425

@@ -1,0 +1,13 @@
+name = "The Arsel Dweller"
+filename = "arseldweller-beta-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6009d8c5b71c49932269492c0b952cafc92df9fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5607378
+project-id = 1079964

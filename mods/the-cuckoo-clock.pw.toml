@@ -1,0 +1,13 @@
+name = "SCP-4975, The Cuckoo Clock"
+filename = "CuckooClock-forge-1.20.1-1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a04b5215e32a784164cfd3e845fedb6e3c47edd3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5699330
+project-id = 991947

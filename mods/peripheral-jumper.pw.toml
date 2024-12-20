@@ -1,0 +1,13 @@
+name = "SCP-372, The Peripheral Jumper"
+filename = "PeripheralJumper-forge-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a1640e9cbadc4b966b843e6b7bc9fd5865a857a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5699220
+project-id = 1039080

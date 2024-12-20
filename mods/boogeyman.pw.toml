@@ -1,0 +1,13 @@
+name = "SCP-015-IT, The Boogeyman"
+filename = "boogeyman-forge-1.20.1-1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "193554f90fe68802103788a905c5284172e5fe7b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5728687
+project-id = 996925

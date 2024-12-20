@@ -1,0 +1,13 @@
+name = "Faded Conquest II"
+filename = "faded_conquest_2-1.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0cd1f691e2ec18f25b8a931c2d68638ed2a8b38e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5556522
+project-id = 1023370

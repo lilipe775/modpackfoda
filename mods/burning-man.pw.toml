@@ -1,0 +1,13 @@
+name = "SCP-457, The Burning Man"
+filename = "BurningMan-forge-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97c879a4fd3f921b2baaada2e758035800c7a7d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5548550
+project-id = 1030306

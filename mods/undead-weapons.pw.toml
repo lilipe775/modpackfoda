@@ -1,0 +1,13 @@
+name = "Undead Weapons"
+filename = "undeadweapons-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b618dcdb86720fecdf60385ada8667c4292ed327"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5370487
+project-id = 1017421

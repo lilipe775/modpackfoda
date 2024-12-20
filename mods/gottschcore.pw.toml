@@ -1,0 +1,13 @@
+name = "GottschCore"
+filename = "gottschcore-1.20.1-2.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98ce73172c90248edf389019e7484c2503c20952"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5852444
+project-id = 272450
