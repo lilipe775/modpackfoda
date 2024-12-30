@@ -224,6 +224,11 @@ hash = "274ead8f01184fb94bcb6d421f03924c2c7a0d10fee7c201154c549253b216ef"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "4463c0b5c1c0f1883b248572e1026677c71534608db588890983ec87ba5e43a0"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "83c65e1eb2e5b72692adb428b3f713d7ca2fb681eded29c4414d657d2ea0cfa5"
 metafile = true
@@ -371,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "33c914607f09bca18480e8e56ee2963808a1bd6d195c7c3f52f1f7a7397291f1"
+metafile = true
+
+[[files]]
+file = "mods/immersive-lanterns.pw.toml"
+hash = "484ea56b4ded64f832bc48e57148e3b58b6fa0d10573bc2e611223a3ba168390"
 metafile = true
 
 [[files]]
@@ -546,6 +556,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
+
+[[files]]
+file = "mods/playerrevive.pw.toml"
+hash = "256c8f826d91567bc5234062f9bf1dbd0f2262c599266408c19aea5150b0c981"
 metafile = true
 
 [[files]]
