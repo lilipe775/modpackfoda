@@ -379,11 +379,6 @@ hash = "33c914607f09bca18480e8e56ee2963808a1bd6d195c7c3f52f1f7a7397291f1"
 metafile = true
 
 [[files]]
-file = "mods/immersive-lanterns.pw.toml"
-hash = "484ea56b4ded64f832bc48e57148e3b58b6fa0d10573bc2e611223a3ba168390"
-metafile = true
-
-[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "3a2717a1fd9223607152c1c02ed485571e29820d1bf904608dbb759784d70222"
 metafile = true
