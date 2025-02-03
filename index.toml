@@ -269,6 +269,11 @@ hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "84e6ec23b1d9e88d4e1147d3d3c7c50b387f4b7ce06c52d3d8b6ceb6412907ee"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "f29e468a2aa1801bc8d9fdb0608b148d3e6eca97b25ef146a3e5d26bdff03f89"
 metafile = true
@@ -294,8 +299,8 @@ hash = "7a539b9afe00f006f3e124336b977455bb46f2c8f0627dcb4a8203a6872bf8a2"
 metafile = true
 
 [[files]]
-file = "mods/fantasy-armor.pw.toml"
-hash = "8c3eb9cbe43035c131ce6768a0c64976da832bef0da1a01de978a072bc956b63"
+file = "mods/fantasy_armor.pw.toml"
+hash = "13a96069b967cbc35741c3fc8a392f7e5e6a3b769aa7d6daab7774cde680e74e"
 metafile = true
 
 [[files]]
@@ -339,11 +344,6 @@ hash = "2a4f28e582d8bb538efaeb0faa5a8592f44b2e90dd192af58852f45aa7be8be8"
 metafile = true
 
 [[files]]
-file = "mods/functional-storage.pw.toml"
-hash = "4531972dfb47f64b1e56b0ec00a17c97e2e43bcd2750b377f3ca14183761cd7b"
-metafile = true
-
-[[files]]
 file = "mods/galosphere-spellbooks.pw.toml"
 hash = "8c8e16d9d0a274daa03659519d1e264605c7e684c768c9dc4ffbc32b80ee8d91"
 metafile = true
@@ -371,6 +371,11 @@ metafile = true
 [[files]]
 file = "mods/illager-invasion.pw.toml"
 hash = "f627bc88c828dae136e6780881e612d0db93ba1bf46bc2fc78de49c8a96135c7"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
 
 [[files]]
@@ -686,6 +691,11 @@ metafile = true
 [[files]]
 file = "mods/starving-skeletons.pw.toml"
 hash = "c67f7faf45e7568e2a5eb9ddd892714f7c1eaf0c1b1aed9cf5a18cf8827574ab"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "fd6155814d00766c567f1b8459645346e125b3ee4bf37757f70084e281f8a7dc"
 metafile = true
 
 [[files]]
